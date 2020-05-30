@@ -2,9 +2,12 @@
 to get to know more about this team, please visit: teambazinga.co
 
 ### Project goals: 
-*[] a
-*[] b
-*[] c
+*[x] a
+
+*[x] b
+
+*[x] c
+
 
 # index
 ## [a](#a)
