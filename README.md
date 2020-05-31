@@ -4,6 +4,9 @@ to get to know more about this team, please visit: teambazinga.co
 
 # Before you start:
 
+## READ THIS PDF !!
+https://drive.google.com/file/d/1wuxHgiOc46fakidJb1S3ykAMSpE5EJ0u/view?usp=sharing
+
 Consider checking our [amazing 3d model](https://a360.co/3dkGRmY), it launches from the browser, a service by Autodesk. (non-commercial licence)
 
 also, have a look at this [VIDEO](https://drive.google.com/file/d/1fnJudSjP9p4uztPqeC9cWlFvzgTDm3ZN/view?usp=sharing). By the way a copy can be found in the fusion360 folder
